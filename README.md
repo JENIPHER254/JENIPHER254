@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I am a seasoned software developer based in Nairobi, Kenya, with extensive experience in a variety of technologies, including HTML, CSS, SQL, Node.js, React, and Flutter. My portfolio includes numerous applications, systems, software solutions, and websites that demonstrate my versatility and expertise. With a strong foundation in both front-end and back-end development, I excel at creating user-friendly interfaces and robust, scalable back-end systems. My commitment to continuous learning and staying updated with the latest industry trends ensures that I consistently deliver high-quality, innovative solutions. "[ForrestKnight][youtube]" to more than 500k subscribers.
+I am a seasoned software developer based in Nairobi, Kenya, with extensive experience in a variety of technologies, including HTML, CSS, SQL, Node.js, React, and Flutter. My portfolio includes numerous applications, systems, software solutions, and websites that demonstrate my versatility and expertise. With a strong foundation in both front-end and back-end development, I excel at creating user-friendly interfaces and robust, scalable back-end systems. My commitment to continuous learning and staying updated with the latest industry trends ensures that I consistently deliver high-quality, innovative solutions. "[ BYTESCAPE ][youtube]" to more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -19,8 +19,7 @@ I am a seasoned software developer based in Nairobi, Kenya, with extensive exper
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -31,7 +30,7 @@ I am a seasoned software developer based in Nairobi, Kenya, with extensive exper
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
