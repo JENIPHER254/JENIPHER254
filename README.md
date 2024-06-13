@@ -56,9 +56,9 @@ I am a seasoned software developer based in Nairobi, Kenya, with extensive exper
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![JENIPHER254's GitHub stats](https://github-readme-stats.vercel.app/api?username=JENIPHER254&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 #
 <!--
