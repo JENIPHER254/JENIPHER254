@@ -5,11 +5,11 @@
 I am a seasoned software developer based in Nairobi, Kenya, with extensive experience in a variety of technologies, including HTML, CSS, SQL, Node.js, React, and Flutter. My portfolio includes numerous applications, systems, software solutions, and websites that demonstrate my versatility and expertise. With a strong foundation in both front-end and back-end development, I excel at creating user-friendly interfaces and robust, scalable back-end systems. My commitment to continuous learning and staying updated with the latest industry trends ensures that I consistently deliver high-quality, innovative solutions. "[ BYTESCAPE ][youtube]" to more than 500k subscribers.
 
    <p align="left">
-   <a href="https://www.youtube.com/watch?v=DRs5BfKteWg&t=113s">
-  <img alt="Watch this video" title="Watch this video" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=WATCH&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a>
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <a href="https://www.youtube.com/watch?v=DRs5BfKteWg&t=113s">
+            <img alt="Watch this video" title="Watch this video" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=WATCH&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+            </a>
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
