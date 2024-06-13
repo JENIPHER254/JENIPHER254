@@ -2,7 +2,7 @@
 
 **`Software Engineer (Developer/Designer/Creator/ Tech explorer 🚀)`**
 
-I am a seasoned software developer based in Nairobi, Kenya, with extensive experience in a variety of technologies, including HTML, CSS, SQL, Node.js, React, and Flutter. My portfolio includes numerous applications, systems, software solutions, and websites that demonstrate my versatility and expertise. With a strong foundation in both front-end and back-end development, I excel at creating user-friendly interfaces and robust, scalable back-end systems. My commitment to continuous learning and staying updated with the latest industry trends ensures that I consistently deliver high-quality, innovative solutions. "[ BYTESCAPE ][youtube]" to more than 500k subscribers.
+I am a seasoned software developer based in Nairobi, Kenya, with extensive experience in a variety of technologies, including HTML, CSS, SQL, Node.js, React, and Flutter e.t.c. My portfolio includes numerous applications, systems, software solutions, and websites that demonstrate my versatility and expertise. With a strong foundation in both front-end and back-end development, I excel at creating user-friendly interfaces and robust, scalable back-end systems. My commitment to continuous learning and staying updated with the latest industry trends ensures that I consistently deliver high-quality, innovative solutions. "[ BYTESCAPE ][youtube]" my youtube channel.
 
    <p align="left">
       <a href="https://www.youtube.com/@_BYTESCAPE?sub_confirmation=1">
