@@ -43,11 +43,15 @@ I am a seasoned software developer based in Nairobi, Kenya, with extensive exper
 [![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=DRs5BfKteWg&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=DRs5BfKteWg&t=113s)
 [![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=MJLHgT6k6k8&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=MJLHgT6k6k8)
 [![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=E1WPSjy93rg&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=E1WPSjy93rg)
+[![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=Lo9d1qATPb4&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/shorts/Lo9d1qATPb4)
+
 [![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=E1WPSjy93rg&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=E1WPSjy93rg)
+[![How to Automate Your Developer Workflow](https://ytcards.demolab.com/?id=UWakyGrDqqw&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=UWakyGrDqqw)
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@_BYTESCAPE?sub_confirmation=1)
+
 
 #
 
